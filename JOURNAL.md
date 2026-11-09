@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/u5o75d6814wnuv5rokspcz8s)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> An ergonomic stackable components organizer, inspired by the Japanese bento boxes.
+> An ergonomic stackable components organizer, inspired by the Japanese bento boxes.  A lid is included. Each base part is separated into four sections.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
